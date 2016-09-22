@@ -1,0 +1,1 @@
+import getRand from './setup';
